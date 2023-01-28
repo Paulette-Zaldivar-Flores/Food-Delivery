@@ -7,7 +7,6 @@
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Project Status](#project-status)
-* [Acknowledgements](#acknowledgements)
 * [Contact](#contact)
 
 
@@ -41,7 +40,6 @@
  
 
 
-## Screenshots
 
 
 
@@ -53,9 +51,7 @@
 
 
 
-## Acknowledgements
- 
- This README.md was inspired by <a href ="https://github.com/ritaly"> Ritaly</a>
+
     
    
 
