@@ -25,7 +25,7 @@
 
 ## Features
 
-#As a: 
+
 <ul>
 <li>[X] As an employee, I can log in</li>
 <li>[X] As a manager, I can add a new meal</li>
